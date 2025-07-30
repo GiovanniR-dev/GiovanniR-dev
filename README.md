@@ -1,6 +1,6 @@
-# 👨‍💻 Guilherme Fernandes
+# 👨‍💻 Giovanni Rodrigues
 
-**Desenvolvedor FullStack** 
+**Desenvolvedor BACKEND** 
 
 Ola me chamo Giovanni Correa Rodrigues e sonhor em atuar em Desenvolvimento Backend com Java, aplicando meus conhecimentos na criação
 de soluções eficientes e robustas. Busco crescimento profissional e contribuir ativamente
@@ -51,13 +51,13 @@ e minhas habilidades de organização.
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=guifernandes72&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=60" 
+    src="https://github-readme-stats.vercel.app/api?username=GiovanniR-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=60" 
   />
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guifernandes72&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniR-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" 
   />
 </p>
 
