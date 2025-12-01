@@ -1,16 +1,12 @@
 # 👨‍💻 Giovanni Rodrigues
 
-**Desenvolvedor BACKEND** 
+**Desenvolvedor Backend**
 
-Ola me chamo Giovanni Correa Rodrigues e sonhor em atuar em Desenvolvimento Backend com Java, aplicando meus conhecimentos na criação
-de soluções eficientes e robustas. Busco crescimento profissional e contribuir ativamente
-em equipes de desenvolvimento, agregando valor com minha experiência em manutenção
-e minhas habilidades de organização.
+Olá! Meu nome é Giovanni Correa Rodrigues e sonho em atuar no desenvolvimento Backend com Java, aplicando meus conhecimentos na criação de soluções eficientes e robustas. Busco crescimento profissional e desejo contribuir ativamente em equipes de desenvolvimento, agregando valor com minhas habilidades e experiência.
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
-
 
 <img 
     align="left" 
@@ -28,7 +24,6 @@ e minhas habilidades de organização.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
-
 <img 
     align="left" 
     alt="Java" 
@@ -38,10 +33,9 @@ e minhas habilidades de organização.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 
+<br/><br/>
 
-                              
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
@@ -55,11 +49,8 @@ e minhas habilidades de organização.
   />
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniR-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" 
-  />
-</p>
-
-
+  />
 </p>
