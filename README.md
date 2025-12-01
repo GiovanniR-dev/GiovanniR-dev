@@ -8,49 +8,29 @@ Olá! Meu nome é Giovanni Correa Rodrigues e sonho em atuar no desenvolvimento 
 
 ### 🤖 Linguagens e Tecnologias
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<!-- Cartão de estatísticas -->
 <img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="NodeJs"
-    title="NodeJs" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiovanniR-dev&theme=tokyonight" 
+  alt="Estatísticas do GitHub"
+  height="180"
 />
 
-<br/><br/>
+<!-- Linguagens mais usadas -->
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiovanniR-dev&theme=tokyonight" 
+  alt="Linguagens mais usadas"
+  height="180"
+/>
 
----
+<!-- Resumo geral -->
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiovanniR-dev&theme=tokyonight" 
+  alt="Resumo do perfil" 
+  height="220"
+/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GiovanniR-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=60" 
-  />
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniR-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=60" 
-  />
-</p>
+</div>
