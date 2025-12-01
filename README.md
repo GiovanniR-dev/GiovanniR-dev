@@ -10,26 +10,24 @@ Olá! Meu nome é Giovanni Correa Rodrigues e sonho em atuar no desenvolvimento 
 
 ### 📊 Estatísticas do GitHub
 
+### 📊 Estatísticas do GitHub
+
 <div align="center">
 
-<!-- Cartão de estatísticas -->
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiovanniR-dev&theme=tokyonight" 
-  alt="Estatísticas do GitHub"
-  height="180"
+  height="160"
 />
 
-<!-- Linguagens mais usadas -->
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiovanniR-dev&theme=tokyonight" 
-  alt="Linguagens mais usadas"
-  height="180"
+  height="160"
 />
 
-<!-- Resumo geral -->
+<br/>
+
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiovanniR-dev&theme=tokyonight" 
-  alt="Resumo do perfil" 
   height="220"
 />
 
