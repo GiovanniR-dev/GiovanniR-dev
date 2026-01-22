@@ -37,32 +37,7 @@ Busco criar soluções eficientes, limpas e escaláveis — sempre estudando nov
 </div>
 
 
----
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GiovanniR-dev&theme=tokyonight" 
-  height="160"
-/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GiovanniR-dev&theme=tokyonight" 
-  height="160"
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiovanniR-dev&theme=tokyonight" 
-  height="220"
-/>
-
-</div>
-
----
 
 ## 🚀 Projetos em Destaque
 
