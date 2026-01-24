@@ -19,9 +19,6 @@ Busco criar soluções eficientes, limpas e escaláveis — sempre estudando nov
 - 📚 Sempre em evolução e estudando diariamente  
 
 ---
-
-## 🤖 Linguagens e Tecnologias
-
 ## 🤖 Linguagens e Tecnologias
 
 <div style="display: flex; gap: 20px; align-items: center;">
