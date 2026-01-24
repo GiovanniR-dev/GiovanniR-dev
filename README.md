@@ -49,7 +49,6 @@ Jogo simples e divertido com lógica implementada no JavaScript.
 Usuário insere peso/altura e recebe classificação imediata.  
 👉 *Foco em lógica e interação.*
 
-*(Posso adicionar GitHub links se quiser!)*
 
 ---
 
@@ -60,7 +59,6 @@ Usuário insere peso/altura e recebe classificação imediata.
 - Fundamentos de Hardware e Software – Fundação Bradesco  
 - Curso de Java – Udemy  
 
-*(Posso criar uma seção com badges se preferir!)*
 
 ---
 
