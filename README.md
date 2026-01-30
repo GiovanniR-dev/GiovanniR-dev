@@ -38,13 +38,13 @@ Busco criar soluções eficientes, limpas e escaláveis — sempre estudando nov
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 **Jogo da Velha (HTML, CSS e JavaScript)**
-Jogo simples e divertido com lógica implementada no JavaScript.  
-👉 *Primeiro projeto prático aprendido do zero.*
+### 🔹 **Chat Online (HTML, CSS,JavaScript,SpringBoot e Java)**
+Este projeto consiste em uma aplicação de chat em tempo real desenvolvida com Spring Boot, utilizando WebSocket e STOMP no backend, além de HTML, CSS e JavaScript no frontend.
 
-### 🔹 **Calculadora de IMC**
-Usuário insere peso/altura e recebe classificação imediata.  
-👉 *Foco em lógica e interação.*
+A aplicação possibilita que vários usuários, a partir de dispositivos distintos, se conectem simultaneamente e troquem mensagens instantaneamente por meio do navegador.
+
+### 🔹 **Gerenciamento de Usuários**(Java,SpringBoot e MySql)
+Trata-se de uma API REST simples, criada para realizar o gerenciamento e a persistência de informações de usuários. O projeto funciona como um modelo inicial para aplicações backend, utilizando o Spring Boot para disponibilizar endpoints CRUD (criar, consultar, atualizar e remover) de maneira rápida e eficiente.
 
 
 ---
