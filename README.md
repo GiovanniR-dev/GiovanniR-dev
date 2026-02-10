@@ -38,13 +38,22 @@ Busco criar soluções eficientes, limpas e escaláveis — sempre estudando nov
 
 ## 🚀 Projetos em Destaque
 
-### 🔹 **Chat Online (HTML, CSS,JavaScript,SpringBoot e Java)**
+### 🔹 ** Chat Online (HTML, CSS,JavaScript,SpringBoot e Java)**
 Este projeto consiste em uma aplicação de chat em tempo real desenvolvida com Spring Boot, utilizando WebSocket e STOMP no backend, além de HTML, CSS e JavaScript no frontend.
 
 A aplicação possibilita que vários usuários, a partir de dispositivos distintos, se conectem simultaneamente e troquem mensagens instantaneamente por meio do navegador.
 
-### 🔹 **Gerenciamento de Usuários**(Java,SpringBoot e MySql)
+### 🔹 ** Gerenciamento de Usuários**(Java,SpringBoot e MySql)
 Trata-se de uma API REST simples, criada para realizar o gerenciamento e a persistência de informações de usuários. O projeto funciona como um modelo inicial para aplicações backend, utilizando o Spring Boot para disponibilizar endpoints CRUD (criar, consultar, atualizar e remover) de maneira rápida e eficiente.
+### 🔹 ** TodoList (Java e Spring Boot)
+Este projeto consiste em uma aplicação base para gerenciamento de tarefas desenvolvida com Spring Boot 3.5.4 e Java 17. Gerado a partir do Spring Initializr, o projeto representa o ponto de partida de uma API REST, contando apenas com a estrutura inicial da aplicação e as configurações padrão do framework.
+Em seu estado atual, o projeto ainda não possui funcionalidades implementadas, como controllers, entidades ou conexão com banco de dados. Trata-se de um esqueleto de aplicação pronto para receber o desenvolvimento de um CRUD completo de tarefas, seguindo as boas práticas do ecossistema Spring Boot.
+
+### 🔹 ** API de Tarefas (Java, Spring Boot e Jackson)
+Trata-se de uma API REST funcional desenvolvida com Spring Boot 3.5.7 e Java 17, criada para realizar o gerenciamento básico de tarefas em memória. O projeto disponibiliza três endpoints — GET, POST e DELETE — no caminho /tasks, permitindo listar todas as tarefas cadastradas, adicionar uma nova tarefa e limpar a lista por completo.
+A aplicação utiliza um ArrayList<String> para armazenar as tarefas enquanto está em execução, o que significa que os dados são temporários e perdidos ao reiniciar o servidor. Por não possuir banco de dados, o projeto funciona como um modelo inicial para APIs backend, demonstrando a criação de endpoints REST de maneira rápida e direta com Spring Boot.
+
+
 
 
 ---
