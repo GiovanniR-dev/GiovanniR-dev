@@ -1,89 +1,82 @@
-<!-- Header bonito -->
-<h1 align="center">👨‍💻 Giovanni Rodrigues</h1>
-<h3 align="center">Desenvolvedor Backend em evolução 🚀</h3>
+# Giovanni Rodrigues
 
-<p align="center">
-Amo programar e estou construindo minha carreira como desenvolvedor Backend com foco em Java.  
-Busco criar soluções eficientes, limpas e escaláveis — sempre estudando novas tecnologias.
-</p>
+**Desenvolvedor Backend — Java e Spring Boot**
 
----
+Estudante de Engenharia de Software, focado em construir APIs REST bem
+estruturadas e aplicações que resolvem problemas reais. Atualmente aprofundando
+em Spring Boot, modelagem de banco de dados relacional e boas práticas de
+arquitetura.
 
-## 🧠 Sobre mim
-
-- 🎓 Estudante de Engenharia de Software  
-- ☕ Focado em **Desenvolvimento Backend com Java**
-- 🛠️ Experiência em manutenção, organização e boas práticas  
-- 🚗 Apaixonado por carros, tecnologia e resolver problemas  
-- 🎯 Meta atual: dominar Spring Boot, APIs REST e banco de dados  
-- 📚 Sempre em evolução e estudando diariamente  
-
----
-## 🤖 Linguagens e Tecnologias
-
-<div style="display: flex; gap: 20px; align-items: center;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="NodeJs"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS"/>
-
-</div>
-
-
-
-
-## 🚀 Projetos em Destaque
-
-### 🔹 ** Chat Online (HTML, CSS,JavaScript,SpringBoot e Java)**
-Este projeto consiste em uma aplicação de chat em tempo real desenvolvida com Spring Boot, utilizando WebSocket e STOMP no backend, além de HTML, CSS e JavaScript no frontend.
-
-A aplicação possibilita que vários usuários, a partir de dispositivos distintos, se conectem simultaneamente e troquem mensagens instantaneamente por meio do navegador.
-
-### 🔹 ** Gerenciamento de Usuários**(Java,SpringBoot e MySql)
-Trata-se de uma API REST simples, criada para realizar o gerenciamento e a persistência de informações de usuários. O projeto funciona como um modelo inicial para aplicações backend, utilizando o Spring Boot para disponibilizar endpoints CRUD (criar, consultar, atualizar e remover) de maneira rápida e eficiente.
-### 🔹 ** TodoList (Java e Spring Boot)
-Este projeto consiste em uma aplicação base para gerenciamento de tarefas desenvolvida com Spring Boot 3.5.4 e Java 17. Gerado a partir do Spring Initializr, o projeto representa o ponto de partida de uma API REST, contando apenas com a estrutura inicial da aplicação e as configurações padrão do framework.
-Em seu estado atual, o projeto ainda não possui funcionalidades implementadas, como controllers, entidades ou conexão com banco de dados. Trata-se de um esqueleto de aplicação pronto para receber o desenvolvimento de um CRUD completo de tarefas, seguindo as boas práticas do ecossistema Spring Boot.
-
-### 🔹 ** API de Tarefas (Java, Spring Boot e Jackson)
-Trata-se de uma API REST funcional desenvolvida com Spring Boot 3.5.7 e Java 17, criada para realizar o gerenciamento básico de tarefas em memória. O projeto disponibiliza três endpoints — GET, POST e DELETE — no caminho /tasks, permitindo listar todas as tarefas cadastradas, adicionar uma nova tarefa e limpar a lista por completo.
-A aplicação utiliza um ArrayList<String> para armazenar as tarefas enquanto está em execução, o que significa que os dados são temporários e perdidos ao reiniciar o servidor. Por não possuir banco de dados, o projeto funciona como um modelo inicial para APIs backend, demonstrando a criação de endpoints REST de maneira rápida e direta com Spring Boot.
-
-
-
+📍 Guarulhos, SP — Brasil
 
 ---
 
-## 📜 Certificados
+## Tecnologias
 
-- Desenvolvimento Web (HTML, CSS e JS) – **40h**
-- Fundamentos de Engenharia de Software – Udemy  
-- Fundamentos de Hardware e Software – Fundação Bradesco  
-- Curso de Java – Udemy  
+**Backend**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
----
+**Banco de dados**
 
-## 📫 Contato
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div align="center">
+**Frontend e ferramentas**
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/GiovanniR-dev">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-<p align="center">
-Feito com ❤️ por Giovanni Rodrigues
-</p>
+## Projetos
+
+### Chat em Tempo Real
+Aplicação de mensagens instantâneas onde vários usuários, em dispositivos
+diferentes, conversam simultaneamente pelo navegador. Comunicação bidirecional
+via WebSocket com protocolo STOMP.
+
+`Java 17` · `Spring Boot` · `WebSocket` · `STOMP` · `JavaScript`
+
+[Código](https://github.com/GiovanniR-dev/[REPO-DO-CHAT]) · [Ver funcionando]([LINK-DO-DEPLOY])
+
+---
+
+### API de Gerenciamento de Usuários
+API REST com CRUD completo e persistência em MySQL. Estrutura em camadas
+(controller, service, repository) seguindo as convenções do ecossistema Spring.
+
+`Java 17` · `Spring Boot` · `Spring Data JPA` · `MySQL`
+
+[Código](https://github.com/GiovanniR-dev/[REPO-DE-USUARIOS])
+
+---
+
+### API de Tarefas
+API REST para gerenciamento de tarefas com armazenamento em memória. Endpoints
+de listagem, criação e limpeza, com serialização via Jackson.
+
+`Java 17` · `Spring Boot 3` · `Jackson`
+
+[Código](https://github.com/GiovanniR-dev/[REPO-DE-TAREFAS])
+
+---
+
+<!--
+
+
+`Java 21` · `Spring Boot` · `Spring Data JPA` · `MySQL` · `React`
+
+[Código](https://github.com/GiovanniR-dev/[REPO-RAG])
+-->
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/giovanni-correa-rodrigues/])
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[giovannicorrearodrigues124@gmail.com])
