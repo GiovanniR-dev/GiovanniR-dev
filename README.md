@@ -2,10 +2,7 @@
 
 **Desenvolvedor Backend — Java e Spring Boot**
 
-Estudante de Engenharia de Software, focado em construir APIs REST bem
-estruturadas e aplicações que resolvem problemas reais. Atualmente aprofundando
-em Spring Boot, modelagem de banco de dados relacional e boas práticas de
-arquitetura.
+Estudante de Engenharia de Software, focado em construir APIs REST bem estruturadas e aplicações que resolvem problemas reais. Atualmente aprofundando em Spring Boot, modelagem de banco de dados relacional e boas práticas de arquitetura.
 
 📍 Guarulhos, SP — Brasil
 
@@ -17,7 +14,7 @@ arquitetura.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/JPA_/_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/JPA_%2F_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 **Banco de dados**
@@ -36,39 +33,36 @@ arquitetura.
 ## Projetos
 
 ### Chat em Tempo Real
-Aplicação de mensagens instantâneas onde vários usuários, em dispositivos
-diferentes, conversam simultaneamente pelo navegador. Comunicação bidirecional
-via WebSocket com protocolo STOMP.
+
+Aplicação de mensagens instantâneas onde vários usuários, em dispositivos diferentes, conversam simultaneamente pelo navegador. Comunicação bidirecional via WebSocket com protocolo STOMP.
 
 `Java 17` · `Spring Boot` · `WebSocket` · `STOMP` · `JavaScript`
 
-[Código](https://github.com/GiovanniR-dev/[REPO-DO-CHAT]))
+[Código](https://github.com/GiovanniR-dev/Chat_online)
 
 ---
 
 ### API de Gerenciamento de Usuários
-API REST com CRUD completo e persistência em MySQL. Estrutura em camadas
-(controller, service, repository) seguindo as convenções do ecossistema Spring.
+
+API REST com CRUD completo e persistência em MySQL. Estrutura em camadas (controller, service, repository) seguindo as convenções do ecossistema Spring.
 
 `Java 17` · `Spring Boot` · `Spring Data JPA` · `MySQL`
 
-[Código](https://github.com/GiovanniR-dev/https:/github.com/GiovanniR-dev/First-Project-API)
+[Código](https://github.com/GiovanniR-dev/First-Project-API)
 
 ---
 
 ### API de Tarefas
-API REST para gerenciamento de tarefas com armazenamento em memória. Endpoints
-de listagem, criação e limpeza, com serialização via Jackson.
+
+API REST para gerenciamento de tarefas com armazenamento em memória. Endpoints de listagem, criação e limpeza, com serialização via Jackson.
 
 `Java 17` · `Spring Boot 3` · `Jackson`
 
-[Código](https://github.com/GiovanniR-dev/https:/github.com/GiovanniR-dev/Api)
+[Código](https://github.com/GiovanniR-dev/Api)
 
 ---
-
 
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-correa-rodrigues/)
-
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannicorrearodrigues124@gmail.com)
