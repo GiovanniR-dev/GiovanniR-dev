@@ -42,7 +42,7 @@ via WebSocket com protocolo STOMP.
 
 `Java 17` · `Spring Boot` · `WebSocket` · `STOMP` · `JavaScript`
 
-[Código](https://github.com/GiovanniR-dev/[REPO-DO-CHAT]) · [Ver funcionando]([LINK-DO-DEPLOY])
+[Código](https://github.com/GiovanniR-dev/[REPO-DO-CHAT]))
 
 ---
 
@@ -52,7 +52,7 @@ API REST com CRUD completo e persistência em MySQL. Estrutura em camadas
 
 `Java 17` · `Spring Boot` · `Spring Data JPA` · `MySQL`
 
-[Código](https://github.com/GiovanniR-dev/[REPO-DE-USUARIOS])
+[Código](https://github.com/GiovanniR-dev/https:/github.com/GiovanniR-dev/First-Project-API)
 
 ---
 
@@ -62,19 +62,10 @@ de listagem, criação e limpeza, com serialização via Jackson.
 
 `Java 17` · `Spring Boot 3` · `Jackson`
 
-[Código](https://github.com/GiovanniR-dev/[REPO-DE-TAREFAS])
+[Código](https://github.com/GiovanniR-dev/https:/github.com/GiovanniR-dev/Api)
 
 ---
 
-<!--
-
-
-`Java 21` · `Spring Boot` · `Spring Data JPA` · `MySQL` · `React`
-
-[Código](https://github.com/GiovanniR-dev/[REPO-RAG])
--->
-
----
 
 ## Contato
 
